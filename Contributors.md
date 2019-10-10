@@ -6022,6 +6022,7 @@ Rohan Das
 - [Tasdid](https://github.com/Tasdid)
 - [Longwen Ou](https://github.com/oulongwen)
 - [J-tanz](https://github.com/j-tanz)
+- [ARV](https://github.com/Akshat-Raj-Vansh)
 - [David Organ](https://github.com/davidorgan)
 - [Thien Tran](https://github.com/Continuiti)
 - [Christine Betts](https://github.com/chrstnb)
